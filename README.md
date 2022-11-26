@@ -1,5 +1,5 @@
 # Tarjeta de Usuario-Lorena
-Generat form Manzdev
+Tarjeta creada basada en el modelo de ManzDev
 
 
 <img width="1409" alt="Captura de Pantalla 2022-11-25 a la(s) 7 18 40 p  m" src="https://user-images.githubusercontent.com/114018284/204065261-d34afa41-4f55-4ed4-a2f0-640cd2d11bf9.png">
